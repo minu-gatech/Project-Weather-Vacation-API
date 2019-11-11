@@ -53,12 +53,29 @@ Draw the scatter plots to visualize the relationship between various weather fac
 
 Run the linear regression on each relationship
 
-What the linear regression is analyzing
+Analysis of linear regression
 
 
 
 
+## WeatherPy
 
+##### The objective is to plan future vacations based on Weather data gathered in 'WeatherPy' Part of project. 
+- Create a heat map that displays the humidity for every city.
+- Use Jupyter gmaps and the Google Places API for this part of project.
+- Narrow down the DataFrame to find the ideal weather condition. 
+  ###### For Example: 
+  A max temperature lower than 80 degrees but higher than 70.
+  Wind speed less than 10 mph.
+  Zero cloudiness.
+  Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
+- Using Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
+- Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
+
+
+
+Create a heat map that displays the humidity for every city from the part I of the homework.
 
 
 
