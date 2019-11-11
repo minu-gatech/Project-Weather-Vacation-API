@@ -87,6 +87,7 @@ The scatter plot shows that most of the cities that are nearer to the equator ha
 
 ![s_lat_humidity](WeatherPy/'Southern Hemisphere - Humidity(%) vs. Latitude.png')
 
+
 #### 3. 
 The cloudiness is spready equally everywhere (Northern Hemisphere)
 
@@ -95,6 +96,7 @@ The cloudiness is spready equally everywhere (Northern Hemisphere)
 The scatter plot shows no significant relationship between latitide and cloudiness (Southern Hemisphere)
 
 ![s_lat_cloudiness](WeatherPy/'Southern Hemisphere - Cloudiness(%) vs. Latitude.png')
+
 
 #### 4.
 The scatter plot shows no significant relationship between latitide and wind speed (Northern Hemisphere)
@@ -107,9 +109,9 @@ The scatter plot shows no significant relationship between latitide and wind spe
 
 
 
-### Conclusion
+### Conclusion Part 1
 
-### The analysis of data proves that :
+#### The analysis of data proves that :
 - The weather becomes significantly warmer as one approaches the equator (0 Deg. Latititude). It also showed that the southern hempisphere tends to be warmer at the end of the year than the northern hemisphere. 
 - There is no strong relationship between latitude and cloudiness, however, it is interesting to see that a strong band of cities sits at 0, 80, and 100% cloudiness.
 - There is no strong relationship between latitude and wind speed, however in northern hemispheres there is a flurry of cities with over 20 mph of wind.
