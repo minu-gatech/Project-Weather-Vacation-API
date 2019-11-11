@@ -4,7 +4,7 @@
 
 ![Equator](Images/Equator_Image.png)
 
-## WeatherPy
+## (Part-1) WeatherPy
 
 ##### The objective is to write a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using CityPy, a simple Python library, and the OpenWeatherMap API.
 
@@ -58,7 +58,7 @@ Analysis of linear regression
 
 
 
-## VacationPy
+## (Part-2) VacationPy
 
 ##### The objective is to plan future vacations based on Weather data gathered in  'WeatherPy' part of project. 
 - Create a heat map that displays the humidity for every city.
