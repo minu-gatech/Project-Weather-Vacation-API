@@ -1,8 +1,13 @@
-# Python API: "What's the weather like as we approach the equator?"
+# Project - "What's the weather like as we approach the equator?"
 -------------------------------------------------------------------
 
 
 ![Equator](Images/Equator_Image.png)
+
+
+## Skills Used:
+--------------
+Python, Pandas, Matplotlib, Scipy, Python API (OpenWeatherMap API, Jupyter gmaps and the Google Places API)
 
 ## (Part-1) WeatherPy
 
