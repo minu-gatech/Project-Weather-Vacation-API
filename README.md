@@ -57,10 +57,10 @@ Other objective is to run linear regression on each relationship, by separating 
 ## (Part-2) VacationPy
 
 ### The objective is to plan future vacations based on Weather data gathered in  'WeatherPy' part of project. 
-- Create a heat map that displays the humidity for every city.
-- Use Jupyter gmaps and the Google Places API for this part of project.
-- Narrow down the DataFrame to find the ideal weather condition. 
-- Use Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
+- Created a heat map that displays the humidity for every city.
+- Used Jupyter gmaps and the Google Places API for this part of project.
+- Narrowed down the DataFrame to find the ideal weather condition. 
+- Used Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
 - Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 
