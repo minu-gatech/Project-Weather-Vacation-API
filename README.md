@@ -72,7 +72,7 @@ Other objective is to run linear regression on each relationship, by separating 
 
 The scatter plot shows that the temperature decreases as we go farther from the equator (Northern Hemisphere)
 
-![n_temp_lat](WeatherPy/NH_Temp_Lat.png)  ![s_temp_lat](WeatherPy//SH_Temp_Lat.png)
+![n_temp_lat](WeatherPy/NH_Temp_Lat.png)  
 
 The scatter plot shows that the temperature increases as we go nearer towards the equator (Southern Hemisphere)
 
