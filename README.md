@@ -136,8 +136,8 @@ The scatter plot shows no significant relationship between latitide and wind spe
  ![heatmap_hotels](VacationPy/Hotels_HeatMap.PNG)
 
 
-#### Conclusion - 
-We plotted the cities with ideal weather conditions on Google Map along with the hotels information.
+#### Conclusion - Part 2
+Google Map shows the cities with ideal weather conditions along with the hotels information.
 
 
 
