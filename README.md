@@ -35,7 +35,6 @@ Python, Pandas, Matplotlib, Scipy, Python API (OpenWeatherMap API, Jupyter gmaps
 Other objective is to run linear regression on each relationship, by separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 - Filter the data based on Northern Hemisphere and Southern Hemisphere 
-
 - Draw the scatter plots to visualize the relationship between various weather factors both on Northern and Southern Hemisphere
     - Northern Hemisphere - Temperature (F) vs. Latitude
     - Southern Hemisphere - Temperature (F) vs. Latitude
@@ -45,13 +44,25 @@ Other objective is to run linear regression on each relationship, by separating 
     - Southern Hemisphere - Cloudiness (%) vs. Latitude
     - Northern Hemisphere - Wind Speed (mph) vs. Latitude
     - Southern Hemisphere - Wind Speed (mph) vs. Latitude
-
 - Run the linear regression on each relationship
-
 - Analysis of linear regression
-
-
 - The visualizations include a series of scatter plots to showcase the following relationships:
+
+
+
+### Observable Trends
+
+1. It has been found that there is a strong correlation between the latitude and the max temperature values. The weather tends to get hotter as we approach equator. However, the maximum temperature is not exactly at the equator but slightly above (approx. 20o – 25o) the equator.
+
+![max_temp](WeatherPy/City_Latitude_Temperature.png)
+
+
+2. The humidity, cloudiness and wind speed do not seem to be correlated with latitude. 
+
+![humidity](WeatherPy/City_Latitude_Humidity.png)
+![cloudiness](WeatherPy/City_Latitude_Cloudiness.png)
+![wind_speed](WeatherPy/City_Latitude_WindSpeed.png)
+
 
 
 ## (Part-2) VacationPy
