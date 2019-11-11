@@ -6,9 +6,9 @@
 
 ## (Part-1) WeatherPy
 
-##### The objective is to find out if it gets hotter near the equator ot not?
+### The objective is to find out if it gets hotter near the equator ot not?
 
-### Tasks performed: 
+#### Tasks performed: 
 
 #### (1)
 - Wrote a Python script to obtain the weather of 500+ cities across the world of varying distance from the equator using CityPy, a simple Python library, and the OpenWeatherMap API.
@@ -30,7 +30,7 @@
 - Save the scatter plots into PNG images
 
 #### (2)
-The objective is to Run linear regression on each relationship, by separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+Other objective is to run linear regression on each relationship, by separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 - Filter the data based on Northern Hemisphere and Southern Hemisphere 
 
