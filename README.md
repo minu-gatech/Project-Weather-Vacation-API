@@ -64,7 +64,9 @@ Other objective is to run linear regression on each relationship, by separating 
 - Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 
+## Project Conclusion
 
+The analysis of data and research proved that the weather becomes significantly warmer as one approaches the equator(0 Deg. Latititude). It also showed that the southern hempisphere tends to be warmer at the end of the year than the northern hemisphere. 
 
 
 
