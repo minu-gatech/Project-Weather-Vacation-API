@@ -71,7 +71,7 @@ Other objective is to run linear regression on each relationship, by separating 
 
 The scatter plot shows that the temperature decreases as we go farther from the equator (Northern Hemisphere)
 
-![n_temp_lat](WeatherPy/Northern_Hemisphere_Max_Temp_vs_Latitude.png)
+![n_temp_lat](WeatherPy/NH_Temp_Lat.png)
 
 The scatter plot shows that the temperature increases as we go nearer towards the equator (Southern Hemisphere)
 
@@ -81,7 +81,7 @@ The scatter plot shows that the temperature increases as we go nearer towards th
 The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100%.
 The humidity for cities that are slightly far from equator have mix of lower and higher densities (Northern Hemisphere) 
 
-![n_lat_humidity](WeatherPy/'Northern Hemisphere - Humidity(%) vs. Latitude.png')
+![n_lat_humidity](WeatherPy/NH_Humidity_Lat.png)
 
 The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100% (Southern Hemisphere)
 
@@ -90,7 +90,7 @@ The scatter plot shows that most of the cities that are nearer to the equator ha
 #### 3. 
 The cloudiness is spready equally everywhere (Northern Hemisphere)
 
-![n_lat_cloudiness](WeatherPy/'Northern Hemisphere - Cloudiness(%) vs. Latitude.png') ![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
+![n_lat_cloudiness](WeatherPy/NH_Cloudiness_Lat.png) ![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
 
 The scatter plot shows no significant relationship between latitide and cloudiness (Southern Hemisphere)
 
@@ -99,7 +99,7 @@ The scatter plot shows no significant relationship between latitide and cloudine
 #### 4.
 The scatter plot shows no significant relationship between latitide and wind speed (Northern Hemisphere)
 
-![n_lat_wind_speed](WeatherPy/'Northern Hemisphere - Wind Speed(mph) vs. Latitude.png')
+![n_lat_wind_speed](WeatherPy/'NH_WindSpeed_Lat.png)
 
 The scatter plot shows no significant relationship between latitide and wind speed (Southern Hemisphere)
 
