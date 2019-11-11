@@ -31,6 +31,22 @@ Python, Pandas, Matplotlib, Scipy, Python API (OpenWeatherMap API, Jupyter gmaps
 
 - Save the scatter plots into PNG images
 
+
+### Observable Trends
+
+1. It has been found that there is a strong correlation between the latitude and the max temperature values. The weather tends to get hotter as we approach equator. However, the maximum temperature is not exactly at the equator but slightly above (approx. 20o – 25o) the equator.
+
+![max_temp](WeatherPy/City_Latitude_Temperature.png)
+
+
+2. The humidity, cloudiness and wind speed do not seem to be correlated with latitude. 
+
+![humidity](WeatherPy/City_Latitude_Humidity.png)
+![cloudiness](WeatherPy/City_Latitude_Cloudiness.png)
+![wind_speed](WeatherPy/City_Latitude_WindSpeed.png)
+
+
+
 #### (2)
 Other objective is to run linear regression on each relationship, by separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -49,20 +65,48 @@ Other objective is to run linear regression on each relationship, by separating 
 - The visualizations include a series of scatter plots to showcase the following relationships:
 
 
-
 ### Observable Trends
 
-1. It has been found that there is a strong correlation between the latitude and the max temperature values. The weather tends to get hotter as we approach equator. However, the maximum temperature is not exactly at the equator but slightly above (approx. 20o – 25o) the equator.
+#### 1. 
 
-![max_temp](WeatherPy/City_Latitude_Temperature.png)
+The scatter plot shows that the temperature decreases as we go farther from the equator (Northern Hemisphere)
+![max_temp](WeatherPy/Northern Hemisphere - Max Temp vs. Latitude.png)
+
+The scatter plot shows that the temperature increases as we go nearer towards the equator (Southern Hemisphere)
+![max_temp](WeatherPy/Southern Hemisphere - Max Temp vs. Latitude.png)
+
+#### 2. 
+The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100%.
+The humidity for cities that are slightly far from equator have mix of lower and higher densities (Northern Hemisphere) 
+
+![humidity](WeatherPy/Northern Hemisphere - Humidity(%) vs. Latitude.png)
+
+The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100% (Southern Hemisphere)
+![humidity](WeatherPy/Southern Hemisphere - Humidity(%) vs. Latitude.png)
+
+#### 3. 
+The cloudiness is spready equally everywhere (Northern Hemisphere)
+
+![cloudiness](WeatherPy/Northern Hemisphere - Cloudiness(%) vs. Latitude.png)
+
+The scatter plot shows no significant relationship between latitide and cloudiness (Southern Hemisphere)
+![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
+
+#### 4.
+The scatter plot shows no significant relationship between latitide and wind speed (Northern Hemisphere)
+![wind_speed](WeatherPy/Northern Hemisphere - Wind Speed(mph) vs. Latitude.png)
+
+The scatter plot shows no significant relationship between latitide and wind speed (Southern Hemisphere)
+![wind_speed](WeatherPy/Southern Hemisphere - Wind Speed(mph) vs. Latitude.png)
 
 
-2. The humidity, cloudiness and wind speed do not seem to be correlated with latitude. 
 
-![humidity](WeatherPy/City_Latitude_Humidity.png)
-![cloudiness](WeatherPy/City_Latitude_Cloudiness.png)
-![wind_speed](WeatherPy/City_Latitude_WindSpeed.png)
+## Conclusion
 
+### The analysis of data proves that :
+- The weather becomes significantly warmer as one approaches the equator (0 Deg. Latititude). It also showed that the southern hempisphere tends to be warmer at the end of the year than the northern hemisphere. 
+- There is no strong relationship between latitude and cloudiness, however, it is interesting to see that a strong band of cities sits at 0, 80, and 100% cloudiness.
+- There is no strong relationship between latitude and wind speed, however in northern hemispheres there is a flurry of cities with over 20 mph of wind.
 
 
 ## (Part-2) VacationPy
@@ -75,9 +119,6 @@ Other objective is to run linear regression on each relationship, by separating 
 - Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 
-## Project Conclusion
-
-The analysis of data and research proved that the weather becomes significantly warmer as one approaches the equator (0 Deg. Latititude). It also showed that the southern hempisphere tends to be warmer at the end of the year than the northern hemisphere. 
 
 
 
