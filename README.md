@@ -87,7 +87,7 @@ The scatter plot shows that most of the cities that are nearer to the equator ha
 #### 3. 
 The cloudiness is spready equally everywhere (Northern Hemisphere)
 
-![cloudiness](WeatherPy/Northern Hemisphere - Cloudiness(%) vs. Latitude.png)
+![cloudiness](WeatherPy/Northern Hemisphere - Cloudiness(%) vs. Latitude.png) ![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
 
 The scatter plot shows no significant relationship between latitide and cloudiness (Southern Hemisphere)
 ![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
