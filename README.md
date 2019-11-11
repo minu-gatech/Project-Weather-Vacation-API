@@ -60,7 +60,7 @@ Analysis of linear regression
 
 ## VacationPy
 
-##### The objective is to plan future vacations based on Weather data gathered in 'WeatherPy' Part of project. 
+##### The objective is to plan future vacations based on Weather data gathered in  'WeatherPy' part of project. 
 - Create a heat map that displays the humidity for every city.
 - Use Jupyter gmaps and the Google Places API for this part of project.
 - Narrow down the DataFrame to find the ideal weather condition. 
