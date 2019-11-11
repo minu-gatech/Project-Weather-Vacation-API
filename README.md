@@ -121,10 +121,15 @@ The scatter plot shows no significant relationship between latitide and wind spe
 
 ### The objective is to plan future vacations based on Weather data gathered in  'WeatherPy' part of project. 
 - Created a heat map that displays the humidity for every city.
+
+ ![heatmap](VacationPy/HeatMap.PNG)
+
 - Used Jupyter gmaps and the Google Places API for this part of project.
 - Narrowed down the DataFrame to find the ideal weather condition. 
 - Used Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
-- Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+- Plotted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
+ ![heatmap_hotels](VacationPy/Hotels_HeatMap.PNG)
 
 
 
