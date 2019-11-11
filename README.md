@@ -38,17 +38,23 @@ Performs a weather check on each of the cities using a series of successive API 
 
 Includes a print log of each city as it's being processed with the city number and city name.
 
-Saves the data retrieved into CSV files 
+Saves the data retrieved from API calls into CSV files 
 
-Save the PNG images of each scatter plot
+Draw the scatter plots to visualize the relationship between various weather factors
+
+Save the scatter plots into PNG images
+
 
 #### 2.
 
 Filter the data based on Northern Hemisphere and Southern Hemisphere 
 
+Draw the scatter plots to visualize the relationship between various weather factors both on Northern and Southern Hemisphere
+
 Run the linear regression on each relationship
 
 What the linear regression is analyzing
+
 
 
 
