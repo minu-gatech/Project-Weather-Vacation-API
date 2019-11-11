@@ -1,4 +1,5 @@
 # Project: Weather and Vacation
+### "What's the weather like as we approach the equator?"
 
 ![Equator](Images/Equator_Image.png)
 
@@ -8,7 +9,7 @@ Python, Pandas, Matplotlib, Scipy, Python API (OpenWeatherMap API, Jupyter gmaps
 
 ## (Part-1) WeatherPy
 
-### The objective is to find out if it gets hotter near the equator ot not?  "What's the weather like as we approach the equator?"
+### The objective is to find out if it gets hotter near the equator ot not?  
 
 #### Tasks performed: 
 
