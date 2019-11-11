@@ -110,7 +110,7 @@ The scatter plot shows no significant relationship between latitide and wind spe
 
 
 
-### Conclusion - Part 1
+#### Conclusion - Part 1
 
 #### The analysis of data proves that :
 - The weather becomes significantly warmer as one approaches the equator (0 Deg. Latititude). It also showed that the southern hempisphere tends to be warmer at the end of the year than the northern hemisphere. 
@@ -135,6 +135,9 @@ The scatter plot shows no significant relationship between latitide and wind spe
 
  ![heatmap_hotels](VacationPy/Hotels_HeatMap.PNG)
 
+
+#### Conclusion - 
+We plotted the cities with ideal weather conditions on Google Map along with the hotels information.
 
 
 
