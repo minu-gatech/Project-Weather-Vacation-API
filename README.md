@@ -70,34 +70,40 @@ Other objective is to run linear regression on each relationship, by separating 
 #### 1. 
 
 The scatter plot shows that the temperature decreases as we go farther from the equator (Northern Hemisphere)
-![max_temp](WeatherPy/Northern Hemisphere - Max Temp vs. Latitude.png)
+
+![n_temp_lat](WeatherPy/Northern Hemisphere - Max Temp vs. Latitude.png)
 
 The scatter plot shows that the temperature increases as we go nearer towards the equator (Southern Hemisphere)
-![max_temp](WeatherPy/Southern Hemisphere - Max Temp vs. Latitude.png)
+
+![s_temp_lat](WeatherPy/Southern Hemisphere - Max Temp vs. Latitude.png)
 
 #### 2. 
 The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100%.
 The humidity for cities that are slightly far from equator have mix of lower and higher densities (Northern Hemisphere) 
 
-![humidity](WeatherPy/Northern Hemisphere - Humidity(%) vs. Latitude.png)
+![n_lat_humidity](WeatherPy/Northern Hemisphere - Humidity(%) vs. Latitude.png)
 
 The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100% (Southern Hemisphere)
-![humidity](WeatherPy/Southern Hemisphere - Humidity(%) vs. Latitude.png)
+
+![s_lat_humidity](WeatherPy/Southern Hemisphere - Humidity(%) vs. Latitude.png)
 
 #### 3. 
 The cloudiness is spready equally everywhere (Northern Hemisphere)
 
-![cloudiness](WeatherPy/Northern Hemisphere - Cloudiness(%) vs. Latitude.png) ![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
+![n_lat_cloudiness](WeatherPy/Northern Hemisphere - Cloudiness(%) vs. Latitude.png) ![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
 
 The scatter plot shows no significant relationship between latitide and cloudiness (Southern Hemisphere)
-![cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
+
+![s_lat_cloudiness](WeatherPy/Southern Hemisphere - Cloudiness(%) vs. Latitude.png)
 
 #### 4.
 The scatter plot shows no significant relationship between latitide and wind speed (Northern Hemisphere)
-![wind_speed](WeatherPy/Northern Hemisphere - Wind Speed(mph) vs. Latitude.png)
+
+![n_lat_wind_speed](WeatherPy/Northern Hemisphere - Wind Speed(mph) vs. Latitude.png)
 
 The scatter plot shows no significant relationship between latitide and wind speed (Southern Hemisphere)
-![wind_speed](WeatherPy/Southern Hemisphere - Wind Speed(mph) vs. Latitude.png)
+
+![s_lat_wind_speed](WeatherPy/Southern Hemisphere - Wind Speed(mph) vs. Latitude.png)
 
 
 
