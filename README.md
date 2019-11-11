@@ -1,4 +1,4 @@
-# Project - Weather and Vacation
+# Project: Weather and Vacation
 
 ![Equator](Images/Equator_Image.png)
 
