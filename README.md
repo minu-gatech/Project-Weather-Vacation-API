@@ -2,7 +2,7 @@
 -------------------------------------------------------------------
 
 
-![Equator](Images/Equator_Image.jpg)
+![Equator](Images/Equator_Image.png)
 
 ## WeatherPy
 
