@@ -8,7 +8,7 @@
 
 ##### The objective is to write a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using CityPy, a simple Python library, and the OpenWeatherMap API.
 
-The visualizations includce a series of scatter plots to showcase the following relationships:
+The visualizations include a series of scatter plots to showcase the following relationships:
 
 - Temperature (F) vs. Latitude
 - Humidity (%) vs. Latitude
@@ -17,7 +17,7 @@ The visualizations includce a series of scatter plots to showcase the following 
 
 ##### Run linear regression on each relationship, by separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-The visualizations includce a series of scatter plots to showcase the following relationships:
+The visualizations include a series of scatter plots to showcase the following relationships:
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
 - Southern Hemisphere - Temperature (F) vs. Latitude
@@ -28,7 +28,7 @@ The visualizations includce a series of scatter plots to showcase the following 
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-##### The script accomplishes the following:
+#### The script accomplishes the following:
 
 #### 1.
 
