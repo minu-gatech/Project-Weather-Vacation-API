@@ -17,7 +17,7 @@ The visualizations includce a series of scatter plots to showcase the following 
 
 The script accomplishes the following:
 
-Randomly selects at least 500 unique (non-repeat) cities based on latitude and longitude.
+-- Randomly selects at least 500 unique (non-repeat) cities based on latitude and longitude.
 
 Performs a weather check on each of the cities using a series of successive API calls.
 
