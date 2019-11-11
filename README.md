@@ -75,7 +75,7 @@ The scatter plot shows that the temperature decreases as we go farther from the 
 
 The scatter plot shows that the temperature increases as we go nearer towards the equator (Southern Hemisphere)
 
-![s_temp_lat](WeatherPy/'Southern Hemisphere - Max Temp vs. Latitude.png')
+![s_temp_lat](WeatherPy//SH_Temp_Lat.png)
 
 #### 2. 
 The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100%.
@@ -85,7 +85,7 @@ The humidity for cities that are slightly far from equator have mix of lower and
 
 The scatter plot shows that most of the cities that are nearer to the equator have higher humidity between 60% to 100% (Southern Hemisphere)
 
-![s_lat_humidity](WeatherPy/'Southern Hemisphere - Humidity(%) vs. Latitude.png')
+![s_lat_humidity](WeatherPy/SH_Humidity_Lat.png)
 
 
 #### 3. 
@@ -95,7 +95,7 @@ The cloudiness is spready equally everywhere (Northern Hemisphere)
 
 The scatter plot shows no significant relationship between latitide and cloudiness (Southern Hemisphere)
 
-![s_lat_cloudiness](WeatherPy/'Southern Hemisphere - Cloudiness(%) vs. Latitude.png')
+![s_lat_cloudiness](WeatherPy/SH_Cloudiness_Lat.png)
 
 
 #### 4.
@@ -105,7 +105,7 @@ The scatter plot shows no significant relationship between latitide and wind spe
 
 The scatter plot shows no significant relationship between latitide and wind speed (Southern Hemisphere)
 
-![s_lat_wind_speed](WeatherPy/'Southern Hemisphere - Wind Speed(mph) vs. Latitude.png')
+![s_lat_wind_speed](WeatherPy/SH_WindSpeed_Lat.png)
 
 
 
